@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace NTier.Core.Entities
 {
 
-    class CoreEntity : ICoreEntity
+    public class CoreEntity : ICoreEntity
     {
         public Guid Id { get; set; }
         public DateTime CreatedDate { get; set; }

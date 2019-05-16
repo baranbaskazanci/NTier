@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Core", "NTier.Core\NTier.Core.csproj", "{D1313307-DC6A-4EF6-A41F-E24E82D8FFF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Entities", "NTier.Entities\NTier.Entities.csproj", "{5C8102C3-67D5-492A-B5AF-A7AE5428DF51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D1313307-DC6A-4EF6-A41F-E24E82D8FFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1313307-DC6A-4EF6-A41F-E24E82D8FFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1313307-DC6A-4EF6-A41F-E24E82D8FFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8102C3-67D5-492A-B5AF-A7AE5428DF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8102C3-67D5-492A-B5AF-A7AE5428DF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8102C3-67D5-492A-B5AF-A7AE5428DF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8102C3-67D5-492A-B5AF-A7AE5428DF51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
